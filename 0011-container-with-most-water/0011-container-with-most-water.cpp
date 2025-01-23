@@ -12,7 +12,6 @@ public:
 
             int h = min(height[i],height[j]);
             int b = j-i;
-            cout<<h<<" "<<b<<endl;
             m = max(m, h*b);
 
             if(height[i]<height[j]){
