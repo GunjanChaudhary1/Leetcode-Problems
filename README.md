@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -67,7 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
