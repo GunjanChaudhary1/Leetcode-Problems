@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
