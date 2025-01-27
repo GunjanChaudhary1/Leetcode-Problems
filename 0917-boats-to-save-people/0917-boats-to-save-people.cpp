@@ -10,9 +10,7 @@ public:
         int j = size-1;
         sort(people.begin(), people.end());
         
-
         while(i<=j){
-
             sum = people[i] + people[j];
             if(sum <= limit){
                 count++;
