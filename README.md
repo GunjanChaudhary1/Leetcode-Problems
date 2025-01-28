@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3463-alternating-groups-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 <!---LeetCode Topics End-->
