@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -110,7 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0946-smallest-range-ii) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
