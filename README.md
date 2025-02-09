@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
