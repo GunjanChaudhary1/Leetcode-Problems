@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3429-special-array-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3463-alternating-groups-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
