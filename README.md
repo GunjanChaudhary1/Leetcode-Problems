@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3429-special-array-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3429-special-array-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-find-the-highest-altitude](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
