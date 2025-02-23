@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
