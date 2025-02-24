@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3447-clear-digits) |
