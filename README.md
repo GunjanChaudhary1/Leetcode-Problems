@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Two Pointers
