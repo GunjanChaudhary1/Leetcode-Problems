@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0946-smallest-range-ii) |
