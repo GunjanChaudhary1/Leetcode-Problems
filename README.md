@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3429-special-array-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3447-clear-digits](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [1454-remove-palindromic-subsequences](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
