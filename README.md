@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1137-height-checker) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
