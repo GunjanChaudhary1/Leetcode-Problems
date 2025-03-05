@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
