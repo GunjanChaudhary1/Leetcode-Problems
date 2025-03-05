@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0807-custom-sort-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0807-custom-sort-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0807-custom-sort-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0946-smallest-range-ii) |
 | [1137-height-checker](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1137-height-checker) |
