@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2502-sort-the-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3429-special-array-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2502-sort-the-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2502-sort-the-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2502-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
