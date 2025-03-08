@@ -6,7 +6,6 @@ public:
         for (int num : arr) {
             countMap[num]++;
         }
-
         unordered_set<int> seenCounts;
         for (const auto& entry : countMap) {
             if (seenCounts.find(entry.second) != seenCounts.end()) {
