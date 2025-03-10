@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
