@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
