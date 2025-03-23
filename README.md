@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Sliding Window
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0946-smallest-range-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
