@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0807-custom-sort-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1080-camelcase-matching) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1080-camelcase-matching) |
 | [1454-remove-palindromic-subsequences](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
