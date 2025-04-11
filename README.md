@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
