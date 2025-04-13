@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -367,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
