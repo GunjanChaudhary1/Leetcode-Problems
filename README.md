@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -388,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GunjanChaudhary1/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
